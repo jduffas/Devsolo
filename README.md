@@ -1,58 +1,49 @@
-Devsolo
+**Devsolo — Gestion de tâches pour développeurs**
 
-English | Français
+Devsolo est un gestionnaire de tâches épuré, conçu pour les développeurs et créateurs qui veulent rester concentrés sur leur travail.
 
-⸻
+**Organisez vos projets à votre façon**
 
-English
+Créez autant de projets que vous voulez, chacun avec ses propres états personnalisables. Passez vos tâches de "À Faire" à "En Cours", "En Révision" ou "Terminé" d'un glisser-déposer. Adaptez les états, leur ordre et leurs couleurs à votre flux de travail exact.
 
-Manage your development projects without a subscription. Simple, powerful, built for solo developers — tasks, custom states, and rich text editor included.
+**Un éditeur de notes puissant**
 
-A macOS task manager designed for independent developers and creators.
+Chaque tâche dispose d'un éditeur de texte riche intégré, avec mise en forme complète : gras, italique, listes, titres. Rédigez vos notes techniques, vos spécifications ou vos idées directement dans l'application, sans jongler entre plusieurs outils.
 
-Features
+**Sous-tâches et organisation fine**
 
-• Multi-project — as many projects as you need, each with its own states
-• Custom states — create your own columns (To Do, In Progress, In Review…) with custom colors and order
-• Drag & drop — move tasks between states in one gesture
-• Rich text editor — bold, italic, lists, headings, directly inside each task
-• Subtasks — break down your tasks with progress tracking
-• Favorites lists — quick access to your most important tasks
-• Global search — find any task instantly
-• Urgent flag — spot your priorities at a glance
-• Markdown export — share or archive your notes easily
-• Light / dark themes — with customizable accent color
-• Keyboard shortcuts — create tasks and projects without touching the mouse
+Décomposez vos tâches en sous-tâches pour suivre la progression étape par étape. Un indicateur de complétion vous donne une vue instantanée de l'avancement de chaque élément.
 
-Pricing
+**Retrouvez tout en un instant**
 
-• Free: 1 project included
-• Pro: unlimited projects + all current and future features — one-time purchase, no subscription
+La recherche globale parcourt l'ensemble de vos projets et tâches. Marquez vos tâches les plus importantes comme urgentes pour les identifier d'un coup d'œil. Organisez vos favoris dans des listes dédiées pour accéder rapidement à ce qui compte.
 
-Support
+**Conçu pour macOS**
 
-For any question or bug report: jduffas1@free.fr
+Devsolo tire pleinement parti de macOS : navigation en trois colonnes, raccourcis clavier pour créer tâches et projets sans toucher la souris, glisser-déposer natif, thèmes clair et sombre avec couleur d'accentuation personnalisable.
 
-Availability
+**Export Markdown**
 
-Coming soon to the Mac App Store.
+Exportez vos tâches et notes au format Markdown en un clic, pour les partager, les archiver ou les intégrer dans votre documentation.
 
-⸻
+**Gratuit pour commencer, Pro sans abonnement**
 
-Français
+Démarrez gratuitement avec un projet. Passez à Devsolo Pro en un achat unique — pas d'abonnement, pas de frais cachés — pour débloquer les projets illimités et toutes les fonctionnalités présentes et futures.
 
-Gérez vos projets de développement sans abonnement. Simple, puissant, pensé pour les développeurs solo — tâches, états et éditeur riche inclus.
+---
 
-Application macOS de gestion de tâches conçue pour les développeurs et créateurs indépendants.
-
-Fonctionnalités
-
-• Multi-projets — autant de projets que nécessaire, chacun avec ses états
-• États personnalisables — créez vos propres colonnes (À Faire, En Cours, En Révision…) avec couleurs et ordre au choix
-• Glisser-déposer — déplacez les tâches entre états en un geste
-• Éditeur de texte riche — gras, italique, listes, titres, directement dans chaque tâche
-• Sous-tâches — décomposez vos tâches avec suivi de progression
-• Listes de favoris — accès rapide à vos tâches importantes
+*Fonctionnalités principales :*
+- Gestion multi-projets avec états personnalisables
+- Glisser-déposer entre états
+- Éditeur de texte riche intégré
+- Sous-tâches avec suivi de progression
+- Listes de favoris
+- Marquage urgent et code couleur
+- Recherche globale
+- Thèmes clair / sombre + couleur d'accent
+- Raccourcis clavier
+- Export Markdown
+- Achat unique sans abonnement (Pro)• Listes de favoris — accès rapide à vos tâches importantes
 • Recherche globale — retrouvez n'importe quelle tâche en un instant
 • Marquage urgent — identifiez vos priorités d'un coup d'œil
 • Export Markdown — partagez ou archivez vos notes facilement
